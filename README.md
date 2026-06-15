@@ -152,15 +152,15 @@ Structural Similarity Index
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Homepage.png)
 
 ### Enhanced Output
 
-![Output](screenshots/output.png)
+![Output](screenshots/Output.png)
 
 ### Model Comparison
 
-![Comparison](screenshots/comparison.png)
+![Comparison](screenshots/Comparison.png)
 
 
 ---
